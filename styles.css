@@ -1,0 +1,45 @@
+.landing {
+    width: 400px;
+    background: #eee;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.header {
+    font-size: 50px;
+    color: black;
+    background-color: lightblue;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.options {
+    font-size: 30px;
+    background: lightblue;
+    text-align: center;
+    padding: 8px;
+}
+.link {
+    display: block;
+    background: white;
+    padding: 8px 24px;
+    margin: 0 auto;
+}  
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section {
+    color: lightblue;
+    font-style: italic;
+    font-size: 32px;
+    background-color: black;
+}
+
+#chicken {
+    width: 500px;
+    height: auto;
+}
